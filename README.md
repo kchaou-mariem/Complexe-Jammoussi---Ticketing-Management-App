@@ -107,11 +107,11 @@ The interface below is based on the application's Figma design screens. Exported
 
 | Screen | Preview | Purpose |
 | --- | --- | --- |
-| Home and show catalog | `docs/screenshots/home-screen.png` | Browse available cultural events and featured shows. |
-| Show details | `docs/screenshots/show-details.png` | View the event artwork, date, time, duration, price, and description. |
-| Sign in | `docs/screenshots/sign-in.png` | Access the application's user login screen. |
-| Reservation ticket | `docs/screenshots/reservation-ticket.png` | Review the selected show and reservation information. |
-| Calendar | `docs/screenshots/calendar.png` | Explore the event calendar and scheduled performances. |
+| Home and show catalog | `docs/screenshots/home_screen.png` | Browse available cultural events and featured shows. |
+| Show details | `docs/screenshots/show_details.png` | View the event artwork, date, time, duration, price, and description. |
+| Sign-in screen | `docs/screenshots/login_screen.png` | Access the application's user login screen. |
+| Reserved ticket | `docs/screenshots/reserved_ticket.png` | Review the selected show and reservation information. |
+| Calendar screen | `docs/screenshots/calendar_screen.png` | Explore the event calendar and scheduled performances. |
 
 ### Figma Design Preview
 
@@ -120,11 +120,11 @@ Add the exported Figma screens here when they are available:
 ```text
 docs/
 └── screenshots/
-	├── home-screen.png
-	├── show-details.png
-	├── sign-in.png
-	├── reservation-ticket.png
-	└── calendar.png
+	├── home_screen.png
+	├── show_details.png
+	├── login_screen.png
+	├── reserved_ticket.png
+	└── calendar_screen.png
 ```
 
 ## Quality Checks
