@@ -1,26 +1,26 @@
 <div align="center">
-	<img src="assets/images/logo.png" alt="Mohamed Jammoussi Cultural Complex logo" width="180">
+<img src="assets/images/logo.png" alt="Mohamed Jammoussi Cultural Complex logo" width="180">
 
-	<h1>Mohamed Jammoussi Cultural Complex</h1>
+<h1>Mohamed Jammoussi Cultural Complex</h1>
 
-	<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=8B7468&center=true&vCenter=true&width=700&lines=Discover+the+next+live+show;Explore.+Reserve.+Experience.;Culture+in+the+heart+of+Sfax." alt="Discover, reserve, and experience live culture">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=8B7468&center=true&vCenter=true&width=700&lines=Discover+the+next+live+show;Explore.+Reserve.+Experience.;Culture+in+the+heart+of+Sfax." alt="Discover, reserve, and experience live culture">
 
-	<p>A Flutter ticketing experience for discovering cultural shows, exploring event details, and reserving tickets in Sfax, Tunisia.</p>
+<p>A Flutter ticketing experience for discovering cultural shows, exploring event details, and reserving tickets in Sfax, Tunisia.</p>
 
-	<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" alt="Flutter 3.x"></a>
-	<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" alt="Dart 3.x"></a>
-	<img src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-6B5B50" alt="Supported platforms">
-	<img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" alt="Flutter 3.x"></a>
+<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" alt="Dart 3.x"></a>
+<img src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-6B5B50" alt="Supported platforms">
+<img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 </div>
 
 <br>
 
 <div align="center">
-	<a href="#overview">Overview</a> ·
-	<a href="#features">Features</a> ·
-	<a href="#installation">Installation</a> ·
-	<a href="#application-interface">Interface</a> ·
-	<a href="#security">Security</a>
+<a href="#overview">Overview</a> ·
+<a href="#features">Features</a> ·
+<a href="#installation">Installation</a> ·
+<a href="#application-interface">Interface</a> ·
+<a href="#security">Security</a>
 </div>
 
 ## Overview
