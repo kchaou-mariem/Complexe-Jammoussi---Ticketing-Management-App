@@ -1,10 +1,27 @@
-# Mohamed Jammoussi Cultural Complex
+<div align="center">
+	<img src="assets/images/logo.png" alt="Mohamed Jammoussi Cultural Complex logo" width="180">
 
-> A Flutter mobile experience for discovering cultural shows, exploring event details, and reserving tickets at the Mohamed Jammoussi Cultural Complex in Sfax, Tunisia.
+	<h1>Mohamed Jammoussi Cultural Complex</h1>
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+	<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=8B7468&center=true&vCenter=true&width=700&lines=Discover+the+next+live+show;Explore.+Reserve.+Experience.;Culture+in+the+heart+of+Sfax." alt="Discover, reserve, and experience live culture">
+
+	<p>A Flutter ticketing experience for discovering cultural shows, exploring event details, and reserving tickets in Sfax, Tunisia.</p>
+
+	<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" alt="Flutter 3.x"></a>
+	<a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" alt="Dart 3.x"></a>
+	<img src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-6B5B50" alt="Supported platforms">
+	<img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+</div>
+
+<br>
+
+<div align="center">
+	<a href="#overview">Overview</a> ·
+	<a href="#features">Features</a> ·
+	<a href="#installation">Installation</a> ·
+	<a href="#application-interface">Interface</a> ·
+	<a href="#security">Security</a>
+</div>
 
 ## Overview
 
@@ -107,12 +124,11 @@ The interface below is based on the application's Figma design screens. Exported
 
 | Screen | Preview | Purpose |
 | --- | --- | --- |
-| Home and show catalog | `docs/screenshots/home_screen.png` | Browse available cultural events and featured shows. |
-| Home catalog - extended view | `docs/screenshots/home_screen_scroll.png` | Explore additional shows in the catalog layout. |
-| Show details | `docs/screenshots/show_details.png` | View the event artwork, date, time, duration, price, and description. |
-| Sign-in screen | `docs/screenshots/login_screen.png` | Access the application's user login screen. |
-| Reserved ticket | `docs/screenshots/reserved_ticket.png` | Review the selected show and reservation information. |
-| Calendar screen | `docs/screenshots/calendar_screen.png` | Explore the event calendar and scheduled performances. |
+| Home and show catalog | <img src="docs/screenshots/home_screen.png" alt="Home and show catalog" width="180"> | Browse available cultural events and featured shows. |
+| Home catalog - extended view | <img src="docs/screenshots/home_screen_scroll.png" alt="Extended home catalog" width="180"> | Explore additional shows in the catalog layout. |
+| Show details | <img src="docs/screenshots/show_details.png" alt="Show details" width="180"> | View the event artwork, date, time, duration, price, and description. |
+| Reserved ticket | <img src="docs/screenshots/reserved_ticket.png" alt="Reserved ticket" width="180"> | Review the selected show and reservation information. |
+| Calendar screen | <img src="docs/screenshots/calendar_screen.png" alt="Calendar screen" width="180"> | Explore the event calendar and scheduled performances. |
 
 ### Figma Design Preview
 
@@ -124,7 +140,6 @@ docs/
 	├── home_screen.png
 	├── home_screen_scroll.png
 	├── show_details.png
-	├── login_screen.png
 	├── reserved_ticket.png
 	└── calendar_screen.png
 ```
