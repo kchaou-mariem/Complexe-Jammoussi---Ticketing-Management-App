@@ -108,6 +108,7 @@ The interface below is based on the application's Figma design screens. Exported
 | Screen | Preview | Purpose |
 | --- | --- | --- |
 | Home and show catalog | `docs/screenshots/home_screen.png` | Browse available cultural events and featured shows. |
+| Home catalog - extended view | `docs/screenshots/home_screen_scroll.png` | Explore additional shows in the catalog layout. |
 | Show details | `docs/screenshots/show_details.png` | View the event artwork, date, time, duration, price, and description. |
 | Sign-in screen | `docs/screenshots/login_screen.png` | Access the application's user login screen. |
 | Reserved ticket | `docs/screenshots/reserved_ticket.png` | Review the selected show and reservation information. |
@@ -121,6 +122,7 @@ Add the exported Figma screens here when they are available:
 docs/
 └── screenshots/
 	├── home_screen.png
+	├── home_screen_scroll.png
 	├── show_details.png
 	├── login_screen.png
 	├── reserved_ticket.png
