@@ -101,15 +101,31 @@ flutter run -d chrome
 4. Review the generated reservation ticket.
 5. Use the bottom navigation to return home, open the login screen, or access the calendar entry point.
 
-## Visual Gallery
+## Application Interface
 
-The project includes the following visual assets used by the application:
+The interface below is based on the application's Figma design screens. Exported interface previews can be placed in `docs/screenshots/` and linked in this section.
 
-| Cultural program | Brand and reservation assets |
-| --- | --- |
-| ![60 Years of Songs](assets/images/60ansChanson.jpg) | ![Complex logo](assets/images/logo.png) |
-| ![Atyef](assets/images/atyef.webp) | ![Official stamp](assets/images/cachet.png) |
-| ![Seven Skies](assets/images/sevenSkies.jpg) | ![Uskana](assets/images/uskana.jpg) |
+| Screen | Preview | Purpose |
+| --- | --- | --- |
+| Home and show catalog | `docs/screenshots/home-screen.png` | Browse available cultural events and featured shows. |
+| Show details | `docs/screenshots/show-details.png` | View the event artwork, date, time, duration, price, and description. |
+| Sign in | `docs/screenshots/sign-in.png` | Access the application's user login screen. |
+| Reservation ticket | `docs/screenshots/reservation-ticket.png` | Review the selected show and reservation information. |
+| Calendar | `docs/screenshots/calendar.png` | Explore the event calendar and scheduled performances. |
+
+### Figma Design Preview
+
+Add the exported Figma screens here when they are available:
+
+```text
+docs/
+└── screenshots/
+	├── home-screen.png
+	├── show-details.png
+	├── sign-in.png
+	├── reservation-ticket.png
+	└── calendar.png
+```
 
 ## Quality Checks
 
